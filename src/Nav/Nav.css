@@ -1,0 +1,51 @@
+.main-nav {
+    background: #660000;
+   
+}
+ .nav-a {
+    color: #FFF;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+}
+
+.navli-a {
+    font-size: 13px;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color:white;
+    background-color: #660000;
+}
+.navbar-nav>li>.dropdown-menu {
+    background-color: #660000;
+    margin-top: 0;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    
+}
+
+
+.dropdown-menu>li>a{
+    color:white;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+ a.active {
+    background: #023e70;
+    color: #fff;
+}

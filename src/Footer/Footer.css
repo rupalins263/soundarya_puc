@@ -1,0 +1,126 @@
+
+.footer {
+    background: #444;
+    color: #fff;
+}
+footer .container h3{
+    border-bottom: 1px solid #39444e;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+
+}
+.footer .bottom-bar {
+    background: #2b2b2b;
+    padding: 5px 0;
+}
+.footer .container p{
+    color: #8495a5;
+    font-size: 14px;
+    line-height: 22px;
+}
+.footer .foot-address p{
+	line-height:14px;
+}
+.footer .container a {
+    color: #B9DAFA;
+}   
+.footer .container a:hover {
+    color: #fff;
+}
+.footer .about p{
+	text-align: justify;
+    /*background: url("../img/pencil.png") no-repeat left center;
+    padding-left: 45px;*/
+}
+.footer .container .contact-info li{
+	display: table;
+    margin-bottom: 26px;
+}
+.footer .container .contact-info i{
+    color: #c1c4c6;
+	display: table-cell;
+}
+.footer .container .contact-info a {
+    padding-left: 5px;
+}
+.footer .container .pay {
+    display: table;
+}
+   .footer.container .pay li{
+    float: left;
+    margin-right: 4px;
+}
+   .footer.container .pay a{
+    display: block;
+    position: relative;
+    width: 32px;
+}
+   .footer.container .pay a img{
+    width: 100%;
+}
+/*copyright*/
+.copyright{
+    padding-left: 15px;
+    margin-top: 15px;
+}
+.copyright h6{
+    color: #fff;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.copyright ul{
+    display: table;
+    margin: 0 auto;
+    line-height: 30px;
+    margin-top: 10px;
+
+}
+ul.list-unstyled.social li{
+    margin-right: 10px;
+    display: inline-block;
+
+}
+.copyright ul li i{
+    color: #fff;
+    font-size: 16px;
+
+}
+.copyright ul li a:hover i{
+    color: #2a333b;
+}
+
+.footer .bottom-bar .copyright {
+    font-size: 11px;
+    color: #dcdcdc;
+    line-height: 3;
+}
+.pull-right {
+    float: right!important;
+}
+.fa.pull-left {
+    margin-right: .3em;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transform: translate(0, 0);
+    -ms-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.pull-left {
+    float: left!important;
+}
+

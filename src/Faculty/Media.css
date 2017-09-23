@@ -1,0 +1,80 @@
+.page-wrapper .page-heading {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.page-wrapper .page-heading h1.heading-title {
+    margin-top: 0;
+    display: inline-block;
+    font-size: 28px;
+}
+.pull-left {
+    float: left;
+}
+
+.pull-left {
+    float: left!important;
+}
+.page-wrapper .breadcrumbs {
+    display: inline-block;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-right {
+    float: right!important;
+}
+
+.isotope_item {
+    border-width: 0 15px 30px 15px;
+    border-style: solid;
+    border-color: transparent;
+}
+.inner_j_item {
+    display: block;
+    position: relative;
+    overflow: hidden;
+}
+.album {
+    position: relative;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+.page-wrapper ul li {
+    margin-bottom: 5px;
+}
+
+[class*="j_item"] a:not(.wall_image) {
+    color: #fff;
+    position: relative;
+    display: inline-block;
+}
+
+.item_type_1 .overlay_link {
+    padding: 23px 20px;
+}
+
+.inner_j_item .overlay_link {
+    position: absolute !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+    -webkit-transition: background-color .3s ease, opacity .3s ease;
+    transition: background-color .3s ease, opacity .3s ease;
+}

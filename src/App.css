@@ -1,0 +1,111 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.header{
+    background: transparent;
+    border: 0 none;
+    font-weight: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+   
+
+}
+.headerr{
+  background-color: #660000;
+}
+.header .top-bar {
+    background: #660000;
+   
+}
+.other-branch {
+    display: inline-block;
+    padding: 6px 20px;
+    background-color: #660000;
+    color: #FFF;
+
+}
+.header .info {
+    padding-top: 20px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+.header .contact {
+    font-size: 20px;
+    font-family: 'open sans', arial, sans-serif;
+    font-weight: 300;
+    margin-top: 20px;
+}
+
+.pull-right {
+    float: right;
+}
+
+.pull-right {
+    float: right!important;
+}
+.header .menu-top {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    float: right;
+}
+
+.other-branch a {
+    color: #FFF;
+    font-weight: 600;
+}
+.header h1.logo {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.espan{
+  margin-right: 10px;
+  margin-left: 10px;
+  
+}
+.txt-phn{
+  color: #444;
+    font-size: 13px;
+}
+.txt-Social{
+ 
+    font-size: 14px;
+}
+a:hover {
+    text-decoration: none;
+    color: #660000;
+}
+.header .contact p a {
+    color: #444;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
