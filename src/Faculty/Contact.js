@@ -76,7 +76,7 @@ export default class Contact extends Component{
                                 <section className="widget">
                                     <h3 className="title">All Enquiries</h3>
                                     <p className="tel"><i className="fa fa-phone"></i>Tel: 080-28390024</p>
-                                    <p className="email"><i className="fa fa-envelope"></i>Email: <a href="#">soundaryapucollege@gmail.com</a></p>
+                                    <p className="email"><i className="fa fa-envelope"></i>Email: <a href="mailto:soundaryapucollege@gmail.com">soundaryapucollege@gmail.com</a></p>
                                 </section>   
 
                                 <section className="widget">

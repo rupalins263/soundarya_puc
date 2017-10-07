@@ -21,18 +21,21 @@ export default class Cafeteria extends Component
                 
                                 var month=new Date(item.eventdate).toDateString().split(" ")[1];
                                 var day=new Date(item.eventdate).toDateString().split(" ")[2];
+                                 var href=`/NewsSingle?id=${item.eventid}`;
                                  var b= `<article class="events-item row page-row">                                    
-                                            <div className="date-label-wrapper col-md-3 col-sm-4 col-xs-4">
-                                                <p className="date-label">                          
+                                            <div class="date-label-wrapper col-md-3 col-sm-4 col-xs-4">
+                                                <p class="date-label">                          
                                                     <span class="month">${month}</span>
                                                     <span class="date-number"> ${day}</span>
                                                 </p>
                                             </div>
                                             <div class="details col-md-9 col-sm-8 col-xs-8">
-                                                <h5 class="title">${item.eventname}</h5>  
+                                                <h5 class="title"><a href=${href}>${item.eventname}</a></h5>  
                                                 <p class="time text-muted">Soundarya PU College</p>                  
                                             </div>
                                  </article>`;
+                                       
+              
                             return b;
                 
                          })

@@ -19,6 +19,7 @@ import Cocurricuar from './Academics/Cocurricuar';
 import SpecialCoarse from './Academics/SpecialCoarse';
 import './App.css';
 import Contact from './Faculty/Contact';
+import NewsSingle from './Faculty/NewsSingle';
 import Faculty from './Faculty/Faculty';
 import Infra from './Campus/Infra';
 import Library from './Campus/library';
@@ -63,6 +64,8 @@ class App extends Component {
                  <Route exact path="/Admission" component={Admission}/>
                     <Route exact path="/Downloads" component={Downloads}/>
                   <Route exact path="/Gallery" component={Gallery}/>
+                   <Route  path="/NewsSingle" component={NewsSingle}/>
+                       
                     <Route exact path="/Privacy" component={Privacy}/>
                
        </Switch>

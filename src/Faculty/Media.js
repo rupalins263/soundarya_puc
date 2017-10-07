@@ -30,6 +30,7 @@ export default class Contact extends Component{
                 if(index<2){
                     var month=new Date(item.eventdate).toDateString().split(" ")[1];
                      var day=new Date(item.eventdate).toDateString().split(" ")[2];
+					  var href=`/NewsSingle?id=${item.eventid}`;
                     return(
                   
 								      <article className="events-item row page-row">                                    
@@ -40,7 +41,7 @@ export default class Contact extends Component{
 												</p>
 											</div>
 											<div className="details col-md-9 col-sm-8 col-xs-8">
-												<h5 className="title">{item.eventname}</h5>  
+												<h5 className="title"><a href={href}>{item.eventname}</a></h5>  
 												<p className="time text-muted">Soundarya PU College</p>                  
 											</div> 
 										</article>

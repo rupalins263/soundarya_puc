@@ -24,7 +24,7 @@ class Nav extends Component{
               </div>
                 <div className="header-main container">
                 <h1 className="logo col-md-6 col-sm-6">
-                    <a href="index.html" style={{"text-decoration": "none"}}>
+                    <a href="/" style={{"text-decoration": "none"}}>
                         <img id="logo" src="http://res.cloudinary.com/dzrelou7q/image/upload/v1503155295/Logo_dts0t4.jpg" alt="Logo"/>
                         <h1 style={{"display":"inline-block","margin-top":"6%","font-size":"38px"}}>Soundarya PU College</h1>
                     </a>
@@ -39,7 +39,7 @@ class Nav extends Component{
                     <br/>
                     <div className="contact pull-right">
                         <span className="phone txt-phn"><i className="fa fa-phone espan"></i>Call us today 080-28390024</span> 
-                        <span className="phone txt-phn"><i className="fa fa-envelope espan"></i><a href="#">soundaryapucollege@gmail.com</a></span>
+                        <span className="phone txt-phn"><i className="fa fa-envelope espan"></i><a href="mailto:soundaryapucollege@gmail.com">soundaryapucollege@gmail.com</a></span>
 
                     </div>
                 </div>
@@ -61,7 +61,7 @@ class Nav extends Component{
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">
             <li><a href="/About">ABOUT SOUNDARYANS</a></li>
-            <li><a href="/About">VISION AND MISSION </a></li>
+            <li><a href="/About#mission">VISION AND MISSION </a></li>
             <li><a href="/Mission">LEADERSHIP/BOARD-OF-MEMBERS</a></li>
            
           </ul>

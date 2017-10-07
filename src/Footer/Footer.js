@@ -55,7 +55,7 @@ export default class Footer extends Component{
 									<i className="fa fa-map-marker pull-left" style={{"visibility": "hidden"}}></i> Nagasandra Post, Near 8th Mile,<br/>
 									<i className="fa fa-map-marker pull-left" style={{"visibility": "hidden"}}></i> Bangalore-560073<br/>
 									<i className="fa fa-phone"></i>080-28390024 &nbsp;
-									<i className="fa fa-envelope"></i><a href="#">soundaryapucollege@gmail.com</a>  
+									<i className="fa fa-envelope"></i><a href="mailto:soundaryapucollege@gmail.com">soundaryapucollege@gmail.com</a>  
 									</span>
                                     
                                 </span>
@@ -76,8 +76,8 @@ export default class Footer extends Component{
         <div className="bottom-bar">
             <div className="container">
                 <div className="row">
-                    <small className="copyright col-md-6 col-sm-12 col-xs-12">Copyright @ 2015. All Rights Reserved.</small>
-                    <div className="col-md-6 col-sm-12 col-xs-12 pull-right" style={{"margin-top": "8px"}}><small className="pull-right">Designed by Akriveia Technologies</small></div>
+                    <small className="copyright col-md-6 col-sm-12 col-xs-12">Copyright @ 2017. All Rights Reserved.</small>
+                    <div className="col-md-6 col-sm-12 col-xs-12 pull-right" style={{"margin-top": "8px"}}><small className="pull-right"><a href="http://zenopsys.com/">Zenopsys Technologies</a></small></div>
                     
                 </div>
             </div>
