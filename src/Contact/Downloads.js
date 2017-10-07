@@ -34,10 +34,10 @@ export default class Carrier extends Component{
                                         <td>Prospectus</td>
                                         <td><a href="http://zenopsys.net/soundarya_forms/puc/soundarya-pu-prospectus.pdf"><i className="fa fa-file-pdf-o"></i> Download PDF</a></td>
                                     </tr>
-									{/*<tr>
+									<tr>
                                         <td>VENTURA 2016-17</td>
-                                        <td><a href="send_attachment.mako?attachment_type=VENTURA"><i className="fa fa-file-pdf-o"></i> Download PDF</a></td>
-                                    </tr>*/}
+                                        <td><a href="https://drive.google.com/file/d/0B7VD508EH2A0SjRVTzluYjBkQzg/view?usp=sharing"><i className="fa fa-file-pdf-o"></i> Download PDF</a></td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </article>

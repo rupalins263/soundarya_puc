@@ -1,0 +1,15 @@
+.stylingNews{
+    box-sizing: border-box; border-style: initial; border-color: initial; border-image: initial; outline-color: initial; outline-style: initial; line-height: 18.5714px; background-image: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;
+}
+.page-wrapper .page-content .page-row {
+    margin-bottom: 30px;
+}
+
+.box.box-border {
+    border-left: 5px solid #1B68AB;
+}
+
+.box {
+    background: #f5f5f5;
+    padding: 15px;
+}

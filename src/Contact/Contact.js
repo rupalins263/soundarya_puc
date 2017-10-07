@@ -72,7 +72,7 @@ export default class ContactUs extends Component{
                         </form>       
                                 <article className="map-section">
                                         <h3 className="title">Our Location</h3>
-                                    <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.1724868331657!2d77.52114601482256!3d13.024685490821083!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae16773e7dc413%3A0x5dbc73340d5d48fb!2sSoundarya+High+School!5e0!3m2!1sen!2sin!4v1453974563863" width="100%" height="315" frameborder="0" style={{"border":"0"}} allowfullscreen=""></iframe></div>
+                                    <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.784697414076!2d77.50344431435447!3d13.049372216698773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3cd26c119123%3A0x4441cb95053eb6bd!2sSoundarya+Composite+Pre-University+College!5e0!3m2!1sen!2sin!4v1454380714295" width="100%" height="315" frameborder="0" style={{"border":"0"}} allowfullscreen=""></iframe></div>
                                 </article>      
                     </article>
                    
