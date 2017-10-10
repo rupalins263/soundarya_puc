@@ -12,7 +12,7 @@ export default class Footer extends Component{
                         <h3>About</h3>
                         <ul>
                             <li><a href="/About"><i className="fa fa-caret-right"></i>About us</a></li>
-                            <li><a href="/Mission"><i className="fa fa-caret-right"></i>Management</a></li>
+                            <li><a href="/Management"><i className="fa fa-caret-right"></i>Management</a></li>
                             <li><a href="Coarse"><i className="fa fa-caret-right"></i>Courses Offered</a></li>
                             <li><a href="/Privacy"><i className="fa fa-caret-right"></i>Privacy Policy</a></li>
                         </ul>

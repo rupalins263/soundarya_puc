@@ -74,7 +74,7 @@ export default class Department extends Component{
                         <h3 className="title">Related Links</h3>
                         <ul className="job-list custom-list-style" style={{"listStyle":"none"}}>
                                 <li><i className="fa fa-caret-right"></i><a href="/About">About Us</a></li>
-                                <li><i className="fa fa-caret-right"></i><a href="/Mission">Management </a></li>
+                                <li><i className="fa fa-caret-right"></i><a href="/Management">Management </a></li>
                                 <li><i className="fa fa-caret-right"></i><a href="/About#mission">Mission</a></li>
                                 <li><i className="fa fa-caret-right"></i><a href="/About#vision">Vision</a></li>
                         </ul>

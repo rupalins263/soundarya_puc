@@ -43,7 +43,7 @@ class App extends Component {
                 <Route exact path="/Media" component={Media}/>
                 <Route exact path="/Admission" component={Admission}/>
                 <Route exact path="/About" component={About}/>
-                <Route exact path="/Mission" component={Mission}/>
+                <Route exact path="/Management" component={Mission}/>
                 <Route exact path="/News" component={News}/>
                    <Route exact path="/News/1" component={News}/>
                       <Route exact path="/News/2" component={News}/>
