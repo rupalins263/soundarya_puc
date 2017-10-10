@@ -49,3 +49,7 @@
     background: #023e70;
     color: #fff;
 }
+.headA:hover{
+    color: white;
+    cursor: pointer;
+}

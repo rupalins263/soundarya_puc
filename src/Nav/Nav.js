@@ -16,9 +16,9 @@ class Nav extends Component{
             <div className="headerr">
                <div className="container " style={{"text-align": "right"}}>              
                   
-                    <div className="other-branch"><a href="http://central.soundaryainstitutions.in">SOUNDARYA CENTRAL SCHOOL</a></div>
-                    <div className="other-branch"><a href="http://puc.soundaryainstitutions.in">SOUNDARYA PU COLLEGE</a></div>     
-                    <div className="other-branch"><a href="http://sims.soundaryainstitutions.in">SIMS</a></div>
+                    <div className="other-branch"><a className="headA" href="http://central.soundaryainstitutions.in">SOUNDARYA CENTRAL SCHOOL</a></div>
+                    <div className="other-branch"><a className="headA"  href="http://puc.soundaryainstitutions.in">SOUNDARYA PU COLLEGE</a></div>     
+                    <div className="other-branch"><a className="headA" href="http://sims.soundaryainstitutions.in">SIMS</a></div>
                      
                 </div>
               </div>
@@ -62,7 +62,7 @@ class Nav extends Component{
           <ul className="dropdown-menu navli-a">
             <li><a href="/About">ABOUT SOUNDARYANS</a></li>
             <li><a href="/About#mission">VISION AND MISSION </a></li>
-            <li><a href="/Mission">LEADERSHIP/BOARD-OF-MEMBERS</a></li>
+            <li><a href="/Management">LEADERSHIP/BOARD-OF-MEMBERS</a></li>
            
           </ul>
         </li>
