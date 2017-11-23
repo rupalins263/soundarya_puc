@@ -49,313 +49,308 @@ export default class Contact extends Component{
 										<td>VICE PRINCIPAL</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
+								
 									<tr>
 										<td>3</td>
-										<td>Mr. Devaraj B.K. </td>
-										<td>Lecturer in Kannada</td>
-										<td>M.A., M.Phil</td>
-									</tr>
-									<tr>
-										<td>4</td>
 										<td>Mr. Suraj S. Raikar</td>
 										<td>Lecturer in Comp. Science</td>
 										<td>M.C.A.</td>
 									</tr>
 									<tr>
-										<td>5</td>
+										<td>4</td>
 										<td>Mr. Narasimha Swamy</td>
 										<td>Lecturer in Economics </td>
 										<td>M.A.</td>
 									</tr>
 									<tr>
-										<td>6</td>
+										<td>5</td>
 										<td>Mrs. Veena Ganesh</td>
 										<td>Lecturer in Comp. Science</td>
 										<td>M.Sc., P.G.D.C.A.</td>
 									</tr>
 									<tr>
-										<td>7</td>
+										<td>6</td>
 										<td>Mr. Peerya Naik</td>
 										<td>Lecturer in Hindi</td>
 										<td>M.A., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>8</td>
+										<td>7</td>
 										<td>Mr. Sayed Imrah Ullah</td>
 										<td>Librarian </td>
 										<td>MLISc</td>
 									</tr>
 									<tr>
-										<td>9</td>
+										<td>8</td>
 										<td>Mrs. Usha Rani H.</td>
 										<td>Lecturer in Accountancy</td>
 										<td>M.Com., D.COP.(ICWAI)</td>
 									</tr>
 									<tr>
-										<td>10</td>
+										<td>9</td>
 										<td>Mrs. Manasasree Reddy</td>
 										<td>Lecturer in Kannada</td>
 										<td>M.A., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>11</td>
+										<td>10</td>
 										<td>Mr. Ashok H. S.</td>
 										<td>Lecturer in Kannada</td>
 										<td>M.A.</td>
 									</tr>
 									<tr>
-										<td>12</td>
+										<td>11</td>
 										<td>Mrs. Mamatha T.</td>
 										<td>Lecturer in English</td>
 										<td>M.A., B.Ed., PGDLELT, M.Phil</td>
 									</tr>
 									<tr>
-										<td>13</td>
+										<td>12</td>
 										<td>Mrs. Shali R. S.</td>
 										<td>Lecturer in Comp. Science</td>
 										<td>M.C.A.</td>
 									</tr>
 									<tr>
-										<td>14</td>
+										<td>13</td>
 										<td>Mrs. Suma Hareesh</td>
 										<td>Lecturer in Chemistry</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>15</td>
+										<td>14</td>
 										<td>Mrs. Shubha B. L.</td>
 										<td>Lecturer in B. Studies</td>
 										<td>M.Com., PGDCA, M.Phil</td>
 									</tr>
 									<tr>
-										<td>16</td>
+										<td>15</td>
 										<td>Mr. Yogesh Babu N.</td>
 										<td>Lecturer in Physics</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>17</td>
+										<td>16</td>
 										<td>Mrs. Sangeetha S. Mane</td>
 										<td>Lecturer in Biology</td>
 										<td>M.Sc., M.Phil</td>
 									</tr>
 									<tr>
-										<td>18</td>
+										<td>17</td>
 										<td>Ms. Bhagyashree K. C.</td>
 										<td>Lecturer in Political Science</td>
 										<td>M.A., PGDC</td>
 									</tr>
 									<tr>
-										<td>19</td>
+										<td>18</td>
 										<td>Mr. Sridhar N.</td>
 										<td>Lecturer in Bus. Studies &amp; Comp. Science</td>
 										<td>M.Com., M.Sc., DISM</td>
 									</tr>
 									<tr>
-										<td>20</td>
+										<td>19</td>
 										<td>Mr. Rajagopala T. N.</td>
 										<td>P. E. Instructor</td>
 										<td>B.P.Ed., M.P.Ed., M.Phil</td>
 									</tr>
 									<tr>
-										<td>21</td>
+										<td>20</td>
 										<td>Mr. Ashok G.</td>
 										<td>Lecturer in Physics</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>22</td>
+										<td>21</td>
 										<td>Mr. Rangaswamy K. R.</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>23</td>
+										<td>22</td>
 										<td>Mr. Manjunatha C. P.</td>
 										<td>Lecturer in Accountancy</td>
 										<td>M.Com.</td>
 									</tr>
 									<tr>
-										<td>24</td>
+										<td>23</td>
 										<td>Mr. Gireesha B. R.</td>
 										<td>Lecturer in Chemistry</td>
 										<td>M.Sc.</td>
 									</tr>
 									<tr>
-										<td>25</td>
+										<td>24</td>
 										<td>Ms. Shilpasri M. V.</td>
 										<td>Lecturer in Economics </td>
 										<td>M.A.</td>
 									</tr>
 									<tr>
-										<td>26</td>
+										<td>25</td>
 										<td>Mr. Mudligiri Gowda V.</td>
 										<td>Lecturer in Physics</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>27</td>
+										<td>26</td>
 										<td>Mrs. Ashwini A. Kulkarni</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>									
 									<tr>
-										<td>28</td>
+										<td>27</td>
 										<td>Mr. Madhujayaraj K. C.</td>
 										<td>Lecturer in English</td>
 										<td>M.A., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>29</td>
+										<td>28</td>
 										<td>Mr. Kiran Kumar D.</td>
 										<td>Lecturer in Commerce</td>
 										<td>M.Com</td>
 									</tr>
 									<tr>
-										<td>30</td>
+										<td>29</td>
 										<td>Mr. Mohan V.</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc., M.Phil</td>
 									</tr>
 									<tr>
-										<td>31</td>
+										<td>30</td>
 										<td>Ms. Suneetha G.V.</td>
 										<td>Lecturer in Electronics</td>
 										<td>B.E.</td>
 									</tr>
 									<tr>
-										<td>32</td>
+										<td>31</td>
 										<td>Mrs. Sowmya M.</td>
 										<td>Lecturer in English</td>
 										<td>M.A.</td>
 									</tr>
 									<tr>
-										<td>33</td>
+										<td>32</td>
 										<td>Mr. Umesha B.</td>
 										<td>Lecturer in Kannada</td>
 										<td>M.A., B.Ed.</td>
 									</tr>
 									<tr>
-										<td>34</td>
+										<td>33</td>
 										<td>Mrs. Gayathri Mamatha</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc.</td>
 									</tr>
 									<tr>
-										<td>35</td>
+										<td>34</td>
 										<td>Mr. Manjunatha H.N.</td>
 										<td>Lecturer in Physics</td>
 										<td>M.Sc., B.Ed., Ph.D</td>
 									</tr>
 									<tr>
-										<td>36</td>
+										<td>35</td>
 										<td>Ms. Bhargavi M.S.</td>
 										<td>Lecturer in Commerce</td>
 										<td>M.B.A., (M.Com.)</td>
 									</tr>
 									<tr>
-										<td>37</td>
+										<td>36</td>
 										<td>Mr. Mr. Narendra D. Ekbote</td>
 										<td>Lecturer in Commerce</td>
 										<td>M.Com., (MBA)</td>
 									</tr>
 									<tr>
-										<td>38</td>
+										<td>37</td>
 										<td>Ms. Vasudevi M.</td>
 										<td>Part time lecturer in Economics</td>
 										<td>M.A.</td>
 									</tr>
 									<tr>
-										<td>39</td>
+										<td>38</td>
 										<td>Mr. Yathiraju T. S.</td>
 										<td>Lecturer in Chemistry</td>
 										<td>M.Sc.</td>
 									</tr>
 									<tr>
-										<td>40</td>
+										<td>39</td>
 										<td>Mrs. Hemalatha Y. J.</td>
 										<td>Lecturer in Chemistry</td>
 										<td>M.Sc., M.Phil.</td>
 									</tr>
 									<tr>
-										<td>41</td>
+										<td>40</td>
 										<td>Ms. Arpana K. S.</td>
 										<td>Lecturer in Statistics</td>
 										<td>M.Com., PGDFM, (MBA)</td>
 									</tr>
 									<tr>
-										<td>42</td>
+										<td>41</td>
 										<td>Mrs. Almas Banu</td>
 										<td>Lectuer in Commerce</td>
 										<td>M.Com</td>
 									</tr>
 									<tr>
-										<td>43</td>
+										<td>42</td>
 										<td>Mr. Shrikant Bhat</td>
 										<td>Lecturer in Sanskrit</td>
 										<td>M.A., B.Ed</td>
 									</tr>
 									<tr>
-										<td>44</td>
+										<td>43</td>
 										<td>Ms. Raman Verma</td>
 										<td>Lectuer in Biology</td>
 										<td>M.Sc.</td>
 									</tr>
 									<tr>
-										<td>45</td>
+										<td>44</td>
 										<td>Mrs. Deepa Prakash Shetty</td>
 										<td>Lectuer in Biology</td>
 										<td>M.Sc., B.Ed., KSET</td>
 									</tr>
 									<tr>
-										<td>46</td>
+										<td>45</td>
 										<td>Mr. Satish Kumar M. H.</td>
 										<td>Lecturer in Physics</td>
 										<td>M.Sc., B.Ed.</td>
 									</tr>
-									<tr>
+									{/*<tr>
 										<td>47</td>
 										<td>Mr. Tejeswi C. M.</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc., B.Ed.</td>
-									</tr>
+									</tr>*/}
 									<tr>
-										<td>48</td>
+										<td>46</td>
 										<td>Ms. Divya C.</td>
 										<td>Lecturer in Chemistry</td>
 										<td>M.Sc.</td>
 									</tr>
-									<tr>
+									{/*<tr>
 										<td>49</td>
 										<td>Mr. N.B. Shigihalli</td>
 										<td>Asst. Professor in Biology</td>
 										<td>M.Sc., M.Phil</td>
-									</tr>
-									<tr>
+									</tr>*/}
+									{/*<tr>
 										<td>50</td>
 										<td>Mrs. Mamatha E.</td>
 										<td>Lectuer in Chemistry</td>
 										<td>M.Sc., B.Ed.</td>
-									</tr>
+									</tr>*/}
 									<tr>
-										<td>51</td>
+										<td>47</td>
 										<td>Dr. Rashmi B. Artal</td>
 										<td>Asst. Professor in Biology</td>
 										<td>M.Sc., Ph.D</td>
 									</tr>
 									<tr>
-										<td>52</td>
+										<td>48</td>
 										<td>Mr. Prakash P.</td>
 										<td>Lecturer in Maths</td>
 										<td>M.Sc., M.Phil</td>
 									</tr>
-									<tr>
+									{/*<tr>
 										<td>53</td>
 										<td>Mrs. Usha Kariappa </td>
 										<td>Admin Assistant</td>
 										<td>B.Com.</td>
-									</tr>
-									<tr>
+									</tr>*/}
+									{/*<tr>
 										<td>54</td>
 										<td>Mrs. Bharathi B. M.</td>
 										<td>Admin Assistant</td>
@@ -366,7 +361,7 @@ export default class Contact extends Component{
 										<td>Mr. Rajkumar R.</td>
 										<td>Computer Technician</td>
 										<td>B.A., DTP Course</td>
-									</tr>
+									</tr>*/}
 								</tbody>
 							</table>
                         </article>

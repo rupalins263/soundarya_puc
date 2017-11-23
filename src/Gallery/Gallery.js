@@ -54,17 +54,17 @@ export default class Gallery extends Component{
                                 <div className="album-cover">
                            
                                         
-                                        <img className="img-responsive" src={item.album_url||"http://res.cloudinary.com/dvl9i5pry/image/upload/v1505979469/gallery-default_eplxgr.jpg"} alt=""/>
+                                        <img className="img-responsive" src={item.album_url||"http://res.cloudinary.com/dvl9i5pry/image/upload/v1505979469/gallery-default_eplxgr.jpg"} style={{height:200,width:"100%"}} alt=""/>
                                     
-                                    <div className="desc">
-                                        <h4><small>{item.albumname}</small></h4>
-                                        <p>{item.album_description} </p>
+                                    <div className="desc" style={{height:150}}>
+                                        <h4><small>{item.albumname.slice(0,55)}</small></h4>
+                                        {/*<p>{item.album_description} </p>*/}
                                     </div>
                                 </div>
                          </div>
                 )
                
-            })
+            }).reverse();
              val=(<div id="album">{aval}</div>)
          }
        } 
