@@ -14,7 +14,7 @@ export default class Gallery extends Component{
        this.goBack=this.goBack.bind(this);
     }
     componentDidMount(){
-        axios.get("http://198.12.154.44:3333/PUC/Albums")
+        axios.get("http://ec2-18-217-223-214.us-east-2.compute.amazonaws.com/PUC/Albums")
              .then((res)=>{
                     console.log(res)
                     this.setState({
@@ -29,7 +29,7 @@ export default class Gallery extends Component{
         })
     }
     getalbums(id){
-              axios.get(`http://198.12.154.44:3333/PUC/Image/${id}`)
+              axios.get(`http://ec2-18-217-223-214.us-east-2.compute.amazonaws.com/PUC/Image/${id}`)
              .then((res)=>{
                     console.log(res)
                     this.setState({

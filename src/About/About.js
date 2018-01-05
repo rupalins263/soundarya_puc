@@ -33,11 +33,11 @@ export default class About extends Component{
 
                                                 </ul>
                                                 
-                                                <h3 className="title" style={{"margin-top":"30px"}} id="vision">Vision</h3>
+                                                <h3 className="title" style={{"margin-top":"30px"}} id="/About#vision">Vision</h3>
                                             <blockquote className="custom-quote">
                                                     <p><i className="fa fa-quote-left"></i>To excel in the academic quarters by making education EXPERIMENTAL by instilling in students the instincts of exploration and groom them into enterpreneurs. The motto that dominates the work culture is to impart patriotism and education thoroughly and candidly and thus prove INDISPENSABLE to all and make the students feel contributed.</p>
                                                 </blockquote>
-                                            <h3 className="title" style={{"margin-top":"30px"}} id="mission">Mission</h3>
+                                            <h3 className="title" style={{"margin-top":"30px"}} id="/About#mission">Mission</h3>
                                             <blockquote className="custom-quote">
                                                     <p><i className="fa fa-quote-left"></i>To puruse excellence and set the pace in the field of P.U. Education. To initiate and promote experimentation and innovations in education and to develop the spirit of national integration and create a sense of Indianness among students.</p>
                                                 </blockquote>
@@ -50,10 +50,10 @@ export default class About extends Component{
                                                 <section className="widget has-divider">
                                                     <h3 className="title">Related Links</h3>
                                                     <ul className="job-list custom-list-style">
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About">About Us</a></li>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/Management">Management </a></li>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About#mission">Mission</a></li>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About#vision">Vision</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About">About Us</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/Management">Management </a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About#mission">Mission</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About#vision">Vision</a></li>
                                                     </ul>
                                                 </section>
 

@@ -11,7 +11,7 @@ export default class Carrier extends Component{
                     <div className="breadcrumbs pull-right">
                         <ul className="breadcrumbs-list">
                             <li className="breadcrumbs-label">You are here:</li>
-                            <li><a href="index.html">Home</a><i className="fa fa-angle-right"></i></li>
+                            <li><a href="/">Home</a><i className="fa fa-angle-right"></i></li>
                             <li className="current">Downloads</li>
                         </ul>
                     </div>

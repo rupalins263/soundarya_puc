@@ -73,9 +73,9 @@ export default class Course extends Component{
                                                 <section className="widget has-divider">
                                                     <h3 className="title">Related Links</h3>
                                                     <ul className="job-list custom-list-style" style={{"list-style":"none"}}>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About">About Us</a></li>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About#mission">Mission</a></li>
-                                                            <li><i className="fa fa-caret-right"></i><a href="/About#vision">Vision</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About">About Us</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About#mission">Mission</a></li>
+                                                            <li><i className="fa fa-caret-right"></i><a href="/#/About#vision">Vision</a></li>
                                                     </ul>
                                                 </section>
                                                 <section className="widget">

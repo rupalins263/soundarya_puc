@@ -60,9 +60,9 @@ class Nav extends Component{
          <li className="dropdown">
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABOUT<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">
-            <li><a href="/About">ABOUT SOUNDARYANS</a></li>
-            <li><a href="/About#mission">VISION AND MISSION </a></li>
-            <li><a href="/Management">LEADERSHIP/BOARD-OF-MEMBERS</a></li>
+            <li><a href="/#/About">ABOUT SOUNDARYANS</a></li>
+            <li><a href="/#/About#mission">VISION AND MISSION </a></li>
+            <li><a href="/#/Management">LEADERSHIP/BOARD-OF-MEMBERS</a></li>
            
           </ul>
         </li>
@@ -70,38 +70,38 @@ class Nav extends Component{
         <li className="dropdown">
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ACADEMICS<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">
-            <li><a href="/Coarse">COARSE OFFERED</a></li>
-            <li><a href="/Assesment">ASSESSMENT PLAN </a></li>
-            <li><a href="/Department">DEPARTMENT</a></li>
-            <li><a href="/Cocurricuar">CO-CURRICULAR</a></li>
-             <li><a href="/SpecialCoarse"> SPECIAL COARSES</a></li>
+            <li><a href="/#/Course">COURSE OFFERED</a></li>
+            <li><a href="/#/Assesment">ASSESSMENT PLAN </a></li>
+            <li><a href="/#/Department">DEPARTMENT</a></li>
+            <li><a href="/#/Cocurricuar">CO-CURRICULAR</a></li>
+             <li><a href="/#/SpecialCourse"> SPECIAL COURSES</a></li>
           </ul>
         </li>
-           <li><a href="/Faculty">FACUALTY</a></li>
+           <li><a href="/#/Faculty">FACUALTY</a></li>
           <li className="dropdown">
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ADMISSSIONS<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">
-            <li><a href="/Admission">ADMISSIONS</a></li>
-            <li><a href="/Downloads">DOWNLOADS</a></li>
+            <li><a href="/#/Admission">ADMISSIONS</a></li>
+            <li><a href="/#/Downloads">DOWNLOADS</a></li>
           </ul>
         </li>
      
          <li className="dropdown">
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CAMPUS LIFE<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">
-            <li><a href="/Infra">INFRASTRUCTURE</a></li>
-            <li><a href="/Library">LIBRARY</a></li>
-            <li><a href="/Lab">LABS</a></li>
-            <li><a href="/Caf">CAFETERIA</a></li>
-            <li><a href="/Councel">COUNCELLING CELL</a></li>
+            <li><a href="/#/Infra">INFRASTRUCTURE</a></li>
+            <li><a href="/#/Library">LIBRARY</a></li>
+            <li><a href="/#/Lab">LABS</a></li>
+            <li><a href="/#/Caf">CAFETERIA</a></li>
+            <li><a href="/#/Councel">COUNCELLING CELL</a></li>
            
           </ul>
         </li>
-          <li><a href="/News">NEWS & EVENTS</a></li>
-         <li><a href="/Media">MEDIA</a></li>
-         <li><a href="/Gallery">GALLERY</a></li>
-         <li><a href="/Alumini">ALUMINI</a></li>
-         <li><a href="/Contact">CONTACT US</a></li>
+          <li><a href="/#/News">NEWS & EVENTS</a></li>
+         <li><a href="/#/Media">MEDIA</a></li>
+         <li><a href="/#/Gallery">GALLERY</a></li>
+         <li><a href="/#/Alumini">ALUMINI</a></li>
+         <li><a href="/#/Contact">CONTACT US</a></li>
       
       </ul>
     </div>
