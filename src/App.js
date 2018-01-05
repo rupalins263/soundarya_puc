@@ -49,10 +49,10 @@ class App extends Component {
                       <Route exact path="/News/2" component={News}/>
                          <Route exact path="/News/3" component={News}/>
                 <Route exact path="/Assesment" component={Assesment}/>
-                <Route exact path="/Coarse" component={Coarse}/>
+                <Route exact path="/Course" component={Coarse}/>
                 <Route exact path="/Department" component={Department}/>
                 <Route exact path="/Cocurricuar" component={Cocurricuar}/>
-                <Route exact path="/SpecialCoarse" component={SpecialCoarse}/>
+                <Route exact path="/SpecialCourse" component={SpecialCoarse}/>
                 <Route exact path="/Contact" component={Contact}/>
                 <Route exact path="/Faculty" component={Faculty}/>
                 <Route exact path="/Infra" component={Infra}/> 

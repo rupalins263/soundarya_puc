@@ -11,7 +11,7 @@ export default class Admission extends Component{
          var email= document.getElementById("email");
 
          var message= document.getElementById("message");
-          axios.post('http://198.12.154.44:3333/Puc/ContactUs', {
+          axios.post('http://ec2-18-217-223-214.us-east-2.compute.amazonaws.com/Puc/ContactUs', {
                 "name":name.value,
                 "email":email.value,
                 "number":phone.value,
@@ -36,7 +36,7 @@ export default class Admission extends Component{
                     <div className="breadcrumbs pull-right">
                         <ul className="breadcrumbs-list">
                             <li className="breadcrumbs-label">You are here:</li>
-                            <li><a href="index.html">Home</a><i className="fa fa-angle-right"></i></li>
+                            <li><a href="/">Home</a><i className="fa fa-angle-right"></i></li>
                             <li className="current">Admissions</li>
                         </ul>
                     </div>
@@ -92,9 +92,9 @@ export default class Admission extends Component{
                             <section className="widget has-divider">
                                 <h3 className="title">Related Links</h3>
                                 <ul className="job-list custom-list-style">
-									<li><i className="fa fa-caret-right"></i><a href="/Coarse">Courses Offered</a></li>
-									<li><i className="fa fa-caret-right"></i><a href="/Infra">Infrastructure</a></li>
-									<li><i className="fa fa-caret-right"></i><a href="/Faculty">Faculty </a></li>
+									<li><i className="fa fa-caret-right"></i><a href="/#/Coarse">Courses Offered</a></li>
+									<li><i className="fa fa-caret-right"></i><a href="/#/Infra">Infrastructure</a></li>
+									<li><i className="fa fa-caret-right"></i><a href="/#/Faculty">Faculty </a></li>
                                 </ul>
                                 
                             </section>

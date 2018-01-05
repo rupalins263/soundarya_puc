@@ -9,7 +9,7 @@ export default class Event extends Component{
         }
     }
     componentWillMount(){
-           axios.get(`http://198.12.154.44:3333/Puc/Events`)
+           axios.get(`http://ec2-18-217-223-214.us-east-2.compute.amazonaws.com/Puc/Events`)
              .then((res)=>{
                     console.log(res)
                     this.setState({

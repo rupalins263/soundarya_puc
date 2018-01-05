@@ -88,9 +88,9 @@ export default class Mission extends Component{
                             <section className="widget has-divider">
                                 <h3 className="title">Related Links</h3>
                                 <ul className="job-list custom-list-style">
-                                        <li><i className="fa fa-caret-right"></i><a href="/About">About</a></li>
-                                        <li><i className="fa fa-caret-right"></i><a href="/About#mission">Mission </a></li>
-                                        <li><i className="fa fa-caret-right"></i><a href="/About#vision">Vision</a></li>
+                                        <li><i className="fa fa-caret-right"></i><a href="/#/About">About</a></li>
+                                        <li><i className="fa fa-caret-right"></i><a href="/#/About#mission">Mission </a></li>
+                                        <li><i className="fa fa-caret-right"></i><a href="/#/About#vision">Vision</a></li>
                                 </ul>
                                 
                             </section>

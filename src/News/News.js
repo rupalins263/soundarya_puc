@@ -21,7 +21,7 @@ export default class Cafeteria extends Component
                 
                                 var month=new Date(item.eventdate).toDateString().split(" ")[1];
                                 var day=new Date(item.eventdate).toDateString().split(" ")[2];
-                                 var href=`/NewsSingle?id=${item.eventid}`;
+                                 var href=`/#/NewsSingle?id=${item.eventid}`;
                                  var b= `<article class="events-item row page-row">                                    
                                             <div class="date-label-wrapper col-md-3 col-sm-4 col-xs-4">
                                                 <p class="date-label">                          
@@ -60,7 +60,7 @@ export default class Cafeteria extends Component
                                         <img className="img-responsive" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1506153330/5_1_10_x_15_-_03_hfhc6t.jpg" alt=""/>
                                 </figure>
                                 <div className="details col-md-10 col-sm-9 col-xs-8">
-                                    <h3 className="title"><a href="News/1">Achievers - 2016-17</a></h3>
+                                    <h3 className="title"><a href="/#/News/1">Achievers - 2016-17</a></h3>
                                     <p>Students scored 90% and above.....Subject wise marks....</p><div>Congratulations to our Top Performers</div><p></p>
                                     <a className="btn btn-theme read-more" href="/News/1">Read more<i className="fa fa-chevron-right"></i></a>
                                 </div>
@@ -70,7 +70,7 @@ export default class Cafeteria extends Component
                                         <img className="img-responsive" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1505979508/news-thumb_uqpsxz.png" alt=""/>
                                 </figure>
                                 <div className="details col-md-10 col-sm-9 col-xs-8">
-                                    <h3 className="title"><a href="/News/2">College Re open for 2nd PU on 15th May</a></h3>
+                                    <h3 className="title"><a href="/#/News/2">College Re open for 2nd PU on 15th May</a></h3>
                                     <p></p>
                                     <a className="btn btn-theme read-more" href="/News/2">Read more<i className="fa fa-chevron-right"></i></a>
                                 </div>
@@ -80,7 +80,7 @@ export default class Cafeteria extends Component
                                         <img className="img-responsive" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1505979508/news-thumb_uqpsxz.png" alt=""/>
                                 </figure>
                                 <div className="details col-md-10 col-sm-9 col-xs-8">
-                                    <h3 className="title"><a href="/News/3">Soundarya PU Toppers</a></h3>
+                                    <h3 className="title"><a href="/#/News/3">Soundarya PU Toppers</a></h3>
                                     <p>Congratulations to our Top Performers!<br/><br/>We wish them the best for their future.</p><div><br/></div><div><img src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1506153369/puc-toppers1_e2cpxz.jpg"/><br/></div><p></p>
                                     <a className="btn btn-theme read-more" href="/News/3">Read more<i className="fa fa-chevron-right"></i></a>
                                 </div>
@@ -126,8 +126,8 @@ export default class Cafeteria extends Component
                             <section className="widget has-divider">
                                 <h3 className="title">Other Events</h3>
                                 <ul className="job-list custom-list-style">
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/2">College Re open for 2nd PU on 15th May</a></li>                                                                                      
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/3">Soundarya PU Toppers</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/2">College Re open for 2nd PU on 15th May</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/3">Soundarya PU Toppers</a></li>                                                                                      
                                 </ul>
                             </section>
                                                                    
@@ -157,8 +157,8 @@ export default class Cafeteria extends Component
                             <section className="widget has-divider">
                                 <h3 className="title">Other Events</h3>
                                 <ul className="job-list custom-list-style">
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/1">Achievers - 2016-17</a></li>                                                                                      
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/3">Soundarya PU Toppers</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/1">Achievers - 2016-17</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/3">Soundarya PU Toppers</a></li>                                                                                      
                                 </ul>
                             </section> 
                                                                    
@@ -188,8 +188,8 @@ export default class Cafeteria extends Component
                             <section className="widget has-divider">
                                 <h3 className="title">Other Events</h3>
                                 <ul className="job-list custom-list-style">
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/1">Achievers - 2016-17</a></li>                                                                                      
-                                            <li><i className="fa fa-caret-right"></i><a href="/News/2">College Re open for 2nd PU on 15th May</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/1">Achievers - 2016-17</a></li>                                                                                      
+                                            <li><i className="fa fa-caret-right"></i><a href="/#/News/2">College Re open for 2nd PU on 15th May</a></li>                                                                                      
                                 </ul>
                             </section>
                                                                    

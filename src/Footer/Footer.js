@@ -11,10 +11,10 @@ export default class Footer extends Component{
                     <div className="footer-col-inner">
                         <h3>About</h3>
                         <ul>
-                            <li><a href="/About"><i className="fa fa-caret-right"></i>About us</a></li>
-                            <li><a href="/Management"><i className="fa fa-caret-right"></i>Management</a></li>
-                            <li><a href="Coarse"><i className="fa fa-caret-right"></i>Courses Offered</a></li>
-                            <li><a href="/Privacy"><i className="fa fa-caret-right"></i>Privacy Policy</a></li>
+                            <li><a href="/#/About"><i className="fa fa-caret-right"></i>About us</a></li>
+                            <li><a href="/#/Management"><i className="fa fa-caret-right"></i>Management</a></li>
+                            <li><a href="/#/Coarse"><i className="fa fa-caret-right"></i>Courses Offered</a></li>
+                            <li><a href="/#/Privacy"><i className="fa fa-caret-right"></i>Privacy Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -22,10 +22,10 @@ export default class Footer extends Component{
                     <div className="footer-col-inner">
                         <h3>More Links</h3>
                         <ul>
-                            <li><a href="/SpecialCoarse"><i className="fa fa-caret-right"></i>Special Courses</a></li>
-                            <li><a href="/Library"><i className="fa fa-caret-right"></i>Library</a></li>
-                            <li><a href="/Lab"><i className="fa fa-caret-right"></i>Labs</a></li>
-                            <li><a href="/Councel"><i className="fa fa-caret-right"></i>Counselling cell</a></li>
+                            <li><a href="/#/SpecialCoarse"><i className="fa fa-caret-right"></i>Special Courses</a></li>
+                            <li><a href="/#/Library"><i className="fa fa-caret-right"></i>Library</a></li>
+                            <li><a href="/#/Lab"><i className="fa fa-caret-right"></i>Labs</a></li>
+                            <li><a href="/#/Councel"><i className="fa fa-caret-right"></i>Counselling cell</a></li>
                             
                         </ul>
                     </div>
@@ -35,10 +35,10 @@ export default class Footer extends Component{
                     <div className="footer-col-inner">
                         <h3>&nbsp;</h3>
                         <ul>
-                            <li><a href="/Infra"><i className="fa fa-caret-right"></i>Infrastructure</a></li>
-                            <li><a href="/Faculty"><i className="fa fa-caret-right"></i>Teaching Staff</a></li>
-                            <li><a href="/Alumini"><i className="fa fa-caret-right"></i>Alumni</a></li>
-                            <li><a href="/ContactUs"><i className="fa fa-caret-right"></i>Contact Us</a></li>
+                            <li><a href="/#/Infra"><i className="fa fa-caret-right"></i>Infrastructure</a></li>
+                            <li><a href="/#/Faculty"><i className="fa fa-caret-right"></i>Teaching Staff</a></li>
+                            <li><a href="/#/Alumini"><i className="fa fa-caret-right"></i>Alumni</a></li>
+                            <li><a href="/#/ContactUs"><i className="fa fa-caret-right"></i>Contact Us</a></li>
                             
                         </ul>
                     </div>

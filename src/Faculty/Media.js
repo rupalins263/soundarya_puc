@@ -70,7 +70,7 @@ export default class Contact extends Component{
                             <ul className="breadcrumbs-list">
                                 <li className="breadcrumbs-label">You are here:</li>
                                 <li><a href="/">Home</a><i className="fa fa-angle-right"></i></li>
-                                <li><a href="/Gallery">media</a><i className="fa fa-angle-right"></i></li>
+                                <li><a href="/#/Gallery">media</a><i className="fa fa-angle-right"></i></li>
                             </ul>
                         </div>
                     </header> 
