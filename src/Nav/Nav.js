@@ -17,6 +17,7 @@ class Nav extends Component{
                <div className="container " style={{"text-align": "right"}}>              
                   
                     <div className="other-branch"><a className="headA" href="http://central.soundaryainstitutions.in">SOUNDARYA CENTRAL SCHOOL</a></div>
+                    <div className="other-branch"><a className="headA" href="http://school.soundaryainstitutions.in">SOUNDARYA SCHOOL</a></div>
                     <div className="other-branch"><a className="headA"  href="http://puc.soundaryainstitutions.in">SOUNDARYA PU COLLEGE</a></div>     
                     <div className="other-branch"><a className="headA" href="http://sims.soundaryainstitutions.in">SIMS</a></div>
                      

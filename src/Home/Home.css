@@ -10,7 +10,7 @@
     line-height: 2;
     font-size: 24px;
     color: #fff;
-    padding-left: 20px;
+    padding-left: 20px; 
 }
 .section-txt{
     font-weight: 300;
@@ -100,6 +100,7 @@ h2.title {
     border-bottom: 1px solid #e8e8e8;
     padding-bottom: 10px;
     margin-bottom: 25px;
+    height:47px;
 }
 .date-label {
     background: #fff;
@@ -206,3 +207,48 @@ a {
     padding-right: 0px;
     margin-top: 20px;
 }
+
+.ann{
+    padding-left:15px;
+
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+td{
+    vertical-align: top;
+
+}
+
+
+
+.col1 {
+    width: auto;
+    background-color: $fff;
+    font-family: Arial;
+    font-size: 1em;
+    float: left;
+    padding: 12px 5px;
+    font-weight: normal;
+    color: #024eb0;
+    border-top: groove 0px #024eb0;
+}
+
+.col1_inner {
+    float: left;
+    width: 800px;
+    font-size: 0.8em;
+    font-family: Arial;
+}
+
