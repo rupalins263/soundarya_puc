@@ -31,14 +31,14 @@ export  default class Home extends Component{
                           {
                               return(
                                        <div className="item active">
-                                                <img src={item.image_url} alt="Los Angeles" style={{width:"100%",height:500}}/>
+                                                <img src={item.image_url} alt="Los Angeles" style={{width:"100%",height:720}}/>
                                             </div>  
                               )
                           }
                           else{
                             return(
-                                    <div className="item ">
-                                            <img src={item.image_url} alt="New york" style={{width:"100%",height:500}}/>
+                                    <div className="item">
+                                            <img src={item.image_url} alt="New york" style={{width:"100%",height:720}}/>
                                     </div>
                             )
                           }
@@ -64,7 +64,7 @@ export  default class Home extends Component{
 
     <div className="container">
     <div className="container">
-     <div id="myCarousel" className="carousel slide" data-ride="carousel">
+     <div id="myCarousel" className="carousel slide" data-ride="carousel" >
    
                 <ol className="carousel-indicators">
                     {num}

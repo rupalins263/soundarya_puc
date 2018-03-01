@@ -18,43 +18,44 @@ class Nav extends Component{
                   
                     <div className="other-branch"><a className="headA" href="http://central.soundaryainstitutions.in">SOUNDARYA CENTRAL SCHOOL</a></div>
                     <div className="other-branch"><a className="headA" href="http://school.soundaryainstitutions.in">SOUNDARYA SCHOOL</a></div>
-                    <div className="other-branch"><a className="headA"  href="http://puc.soundaryainstitutions.in">SOUNDARYA PU COLLEGE</a></div>     
+                    <div className="other-branch"><a className="headA"  href="http://soundaryalawcollege.com">SOUNDARYA COLLEGE OF LAW</a></div>     
                     <div className="other-branch"><a className="headA" href="http://sims.soundaryainstitutions.in">SIMS</a></div>
                      
                 </div>
               </div>
-                <div className="header-main container">
-                <h1 className="logo col-md-6 col-sm-6">
+                <div className="header-main container"  style={{"width":"100%","paddingLeft":"0px","paddingRight":"0px"}}>
+                <img src="http://zenopsys.net/soundarya_forms/puc/puclg.jpg"/>
+               {/* <h1 className="logo col-md-6 col-sm-6">
                     <a href="/" style={{"text-decoration": "none"}}>
                         <img id="logo" src="http://res.cloudinary.com/dzrelou7q/image/upload/v1503155295/Logo_dts0t4.jpg" alt="Logo"/>
                         <h1 style={{"display":"inline-block","margin-top":"6%","font-size":"38px"}}>Soundarya PU College</h1>
                     </a>
-                </h1>         
-                <div className="info col-md-6 col-sm-6">
-                    <div className="menu-top navbar-right hidden-xs txt-Social">
-                        <span className="espan"><a href="#" style={{ color: "#444"}}>Social Connect :</a></span>
-                        <span className="espan"><a href="https://www.facebook.com/SoundaryaSchool/" target="_blank" style={{ color: "#444"}}><i className="fa fa-facebook"></i></a></span>
-                        <span className="espan"><a href="#" style={{ color: "#444"}}><i className="fa fa-linkedin"></i></a></span>
-                        <span className="espan"><a href="#" style={{ color: "#444"}}><i className="fa fa-google-plus"></i></a></span>
-                    </div>
+                </h1>  */}        
+                <div className="info col-md-6 col-sm-6" style={{"margin-top":"-88px","margin-left":"568px","font-weight":"bold"}}>
+                   {/* <div className="menu-top navbar-right hidden-xs txt-Social">
+                        <span className="espan"><a href="#" style={{ color: "#fff"}}>Social Connect :</a></span>
+                        <span className="espan"><a href="https://www.facebook.com/SoundaryaSchool/" target="_blank" style={{ color: "#fff"}}><i className="fa fa-facebook"></i></a></span>
+                        <span className="espan"><a href="#" style={{ color: "#fff"}}><i className="fa fa-linkedin"></i></a></span>
+                        <span className="espan"><a href="#" style={{ color: "#fff"}}><i className="fa fa-google-plus"></i></a></span>
+                    </div>  */}
                     <br/>
-                    <div className="contact pull-right">
-                        <span className="phone txt-phn"><i className="fa fa-phone espan"></i>Call us today 080-28390024</span> 
-                        <span className="phone txt-phn"><i className="fa fa-envelope espan"></i><a href="mailto:soundaryapucollege@gmail.com">soundaryapucollege@gmail.com</a></span>
+                    <div className="contact pull-right" style={{"paddingRight":"90px"}}>
+                        <span className="phone txt-phn" style={{ "color": "blue","font-weight":"bold"}}><i className="fa fa-phone espan"></i>Call us today 080-28390024</span> 
+                        <span className="phone txt-phn" style={{"color": "blue","font-weight":"bold"}}><i className="fa fa-envelope espan"></i><a href="mailto:soundaryapucollege@gmail.com" style={{"color": "blue","font-weight":"bold"}}>soundaryapucollege@gmail.com</a></span>
 
                     </div>
                 </div>
             </div>
           </div>
   <div className="container-fluid main-nav">
-    <div className="container">
+    <div className="container" >
     <nav className="navbar navbar-default " style={{"background-color":"#660000","border":"none","margin-bottom": "0px",color:"white !important"}}>
    
   <div className="container-fluid">
 
 
    
-    <div className="collapse navbar-collapse nav-a" style={{paddingTop:"5px"}} id="bs-example-navbar-collapse-1">
+    <div className="collapse navbar-collapse nav-a" style={{paddingTop:"5px",paddingLeft:"180px"}} id="bs-example-navbar-collapse-1">
       <ul className="nav navbar-nav">
            <li><a href="/" className="navf"  id="HOME">HOME</a></li>
           

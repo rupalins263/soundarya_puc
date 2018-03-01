@@ -241,7 +241,7 @@ td{
     float: left;
     padding: 12px 5px;
     font-weight: normal;
-    color: #024eb0;
+   // color: #024eb0;
     border-top: groove 0px #024eb0;
 }
 
@@ -251,4 +251,5 @@ td{
     font-size: 0.8em;
     font-family: Arial;
 }
+
 

@@ -6,7 +6,7 @@ export default class Footer extends Component{
           <footer className="footer">
         <div className="footer-content">
             <div className="container">
-                <div className="row">
+                <div className="row" style={{"paddingLeft":"15px","paddingRight":"15px"}}>
                 <div className="footer-col col-md-2 col-sm-3 about">
                     <div className="footer-col-inner">
                         <h3>About</h3>
@@ -75,7 +75,7 @@ export default class Footer extends Component{
         </div>
         <div className="bottom-bar">
             <div className="container">
-                <div className="row">
+                <div className="row" style={{"paddingLeft":"15px","paddingRight":"15px"}}>
                     <small className="copyright col-md-6 col-sm-12 col-xs-12">Copyright @ 2018. All Rights Reserved.</small>
                     <div className="col-md-6 col-sm-12 col-xs-12 pull-right" style={{"margin-top": "8px"}}><small className="pull-right"><a href="http://zenopsys.com/">Zenopsys Technologies</a></small></div>
                     
