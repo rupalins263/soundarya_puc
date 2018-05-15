@@ -101,7 +101,7 @@ export default class Event extends Component{
                         <h1 className="section-heading text-highlight"><span className="line">Events</span></h1>
                         <div className="section-content">
                                  {events}
-                            <a className="read-more" href="/#/News">All events<i className="fa fa-chevron-right"></i></a>
+                            <a className="read-more" href="/#/Calender">All events<i className="fa fa-chevron-right"></i></a>
                         </div>
                     </section>
                     <section className="home-page-section">
@@ -111,10 +111,11 @@ export default class Event extends Component{
                                   value={this.state.date}
                                 /> */}
 
-                                 <h3 className="title">Downloads</h3>
-                                    <p>For your benefit we have compiled in this section some of the key features you should know about Soundarya PU College.</p>
-                                    <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/puc/soundarya-pu-prospectus.pdf"><i className="fa fa-download"></i>Prospectus</a></p>
-                                    <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/puc/sims-pu-application-form.pdf"><i className="fa fa-download"></i>Application Form</a></p>
+                                 <h3 className="title">Career Prospects</h3>
+                                    <p>For your benefit we have compiled in this section some of the Career Prospects you should know about Soundarya PU College.</p>
+                                    <p> <img className="img-1" src="http://zenopsys.net/soundarya_forms/puc/Career_Prospects/1.jpg" alt="commerece-college-nagasandra" style={{"width":"370px"}}/></p>
+                                    <p><a className="read-more" href="/#/Carrer">View All<i className="fa fa-chevron-right"></i></a></p>
+                                    
 
                         </div>
                     </section>
@@ -128,22 +129,22 @@ export default class Event extends Component{
 					<div className="section-content">
 						<div className="row">
                             <div className="col-md-4" >
-                                <img className="img-1" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1506157853/11_u0prq2.jpg" alt="commerece-college-nagasandra" style={{"width":"250px"}}/>
+                                <img className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc1.jpg" alt="commerece-college-nagasandra" style={{"width":"250px"}}/>
                             </div>
                             <div className="col-md-4">
-                                <img  className="img-1" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1506157878/33_w3ehdu.jpg" alt="top-puc-college-peenya" style={{"width":"250px"}}/>
+                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc3.jpg" alt="top-puc-college-peenya" style={{"width":"250px"}}/>
                             </div>
                             <div className="col-md-4">
-                                <img  className="img-1" src="http://res.cloudinary.com/dvl9i5pry/image/upload/v1506157910/22_u1qeo4.jpg" alt="top-pu-college" style={{"width":"250px"}}/>
+                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc4.jpg" alt="top-pu-college" style={{"width":"250px"}}/>
                             </div>
                             <div className="col-md-4">
-                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc1.jpg" alt="top-pu-college" style={{"height":"170px","width":"250px","padding-top":"15px"}}/>
+                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc5.jpg" alt="top-pu-college" style={{"height":"170px","width":"250px","padding-top":"15px"}}/>
                             </div>
                             <div className="col-md-4">
                                 <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc2.jpg" alt="top-pu-college"  style={{"height":"170px","width":"250px","padding-top":"15px"}}/>
                             </div>
                             <div className="col-md-4">
-                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc3.jpg" alt="top-pu-college"  style={{"height":"170px","width":"250px","padding-top":"15px"}}/>
+                                <img  className="img-1" src="http://zenopsys.net/soundarya_forms/puc/puc6.jpg" alt="top-pu-college"  style={{"height":"170px","width":"250px","padding-top":"15px"}}/>
                             </div>
                             <br style={{"clear":"both"}}/>
                             <br style={{"clear":"both"}}/>
@@ -160,16 +161,16 @@ export default class Event extends Component{
                                 <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
                             </div>
                             <div className="col-md-4">
-                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
+                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/m1lAi5MpGrM" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
                             </div>
                             <div className="col-md-4">
-                                 <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
+                                 <iframe width="100%" height="150" src="https://www.youtube.com/embed/pUaSjhR03WQ" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
                             </div>
                             <div className="col-md-4">
-                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
+                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/xE_hzsUxvrc" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
                             </div>
                             <div className="col-md-4">
-                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
+                                <iframe width="100%" height="150" src="https://www.youtube.com/embed/PEQZ6xfPxUg" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
                             </div>
                             <div className="col-md-4">
                                 <iframe width="100%" height="150" src="https://www.youtube.com/embed/ne0t1wWnl80" frameborder="0" allowfullscreen="" style={{"margin-bottom":"10px"}}></iframe>
@@ -208,6 +209,19 @@ export default class Event extends Component{
                                     <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/library/JEE_ADVACED_QP.zip"><i className="fa fa-download"></i>JEE ADVANCED Question Paper</a></p>
                                     <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/library/JEE_MAIN_QP.zip"><i className="fa fa-download"></i>JEE Main Question Paper</a></p>
                         </div>
+
+
+                    </section>
+
+                     <section className="home-page-section">
+                        <div className="section-content">
+                       <h3 className="title">Downloads</h3>
+                                    <p>For your benefit we have compiled in this section some of the key features you should know about Soundarya PU College.</p>
+                                    <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/puc/VENTURA2017-18.pdf"><i className="fa fa-download"></i>VENTURA 2017-18</a></p>
+                                    <p><a className="btn btn-theme" href="http://zenopsys.net/soundarya_forms/puc/sims-pu-application-form.pdf"><i className="fa fa-download"></i>Application Form</a></p>
+                        </div>
+
+                        
                     </section>
                 </div>
             </div>

@@ -17,6 +17,7 @@ import Coarse from './Academics/Course';
 import Department from './Academics/Department';
 import Cocurricuar from './Academics/Cocurricuar';
 import SpecialCoarse from './Academics/SpecialCoarse';
+import Calender from './Academics/Calender';
 import './App.css';
 import Contact from './Faculty/Contact';
 import NewsSingle from './Faculty/NewsSingle';
@@ -28,6 +29,8 @@ import Caf from './Campus/Cafeteria';
 import Councel from './Campus/Councel';
 import News from './News/News';
 import Gallery from './Gallery/Gallery';
+import Carrer from './Gallery/Carrer';
+
 class App extends Component {
  
    
@@ -53,6 +56,7 @@ class App extends Component {
                 <Route exact path="/Department" component={Department}/>
                 <Route exact path="/Cocurricuar" component={Cocurricuar}/>
                 <Route exact path="/SpecialCourse" component={SpecialCoarse}/>
+                   <Route exact path="/Calender" component={Calender}/>
                 <Route exact path="/Contact" component={Contact}/>
                 <Route exact path="/Faculty" component={Faculty}/>
                 <Route exact path="/Infra" component={Infra}/> 
@@ -64,6 +68,7 @@ class App extends Component {
                  <Route exact path="/Admission" component={Admission}/>
                     <Route exact path="/Downloads" component={Downloads}/>
                   <Route exact path="/Gallery" component={Gallery}/>
+                  <Route exact path="/Carrer" component={Carrer}/>
                    <Route  path="/NewsSingle" component={NewsSingle}/>
                        
                     <Route exact path="/Privacy" component={Privacy}/>

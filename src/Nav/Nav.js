@@ -79,7 +79,7 @@ class Nav extends Component{
              <li><a href="/#/SpecialCourse"> SPECIAL COURSES</a></li>
           </ul>
         </li>
-           <li><a href="/#/Faculty">FACUALTY</a></li>
+           <li><a href="/#/Faculty">FACULTY</a></li>
           <li className="dropdown">
           <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ADMISSSIONS<span className="caret"></span></a>
           <ul className="dropdown-menu navli-a">

@@ -57,3 +57,148 @@
 .container{
     width:100%;
 }
+
+
+
+
+/*jtab min css**/
+/*!
+ * JTab is “Displays content in tabs for a framework JQuery”.
+ *
+ * @author demorfi <demorfi@gmail.com>
+ * @version 1.0
+ * @source https://github.com/demorfi/jtab
+ * @license http://opensource.org/licenses/MIT Licensed under MIT License
+ */.jtab-ul{font-family:Arial,Helvetica;font-size:small;list-style-type:none;margin:0;overflow:hidden;padding:0}
+ .jtab-ul li{float:left;}
+ .jtab-ul li a{border-bottom:25px solid rgba(0,0,0,0.15);border-right:25px solid transparent;color:#fff;float:left;height:0;line-height:28px;padding:0 35px;
+  position:relative;text-decoration:none;text-transform:uppercase;z-index:1;background:transparent;
+  -moz-transition:border-bottom-color .4s ease;-o-transition:border-bottom-color .4s ease;
+  -webkit-transition:border-bottom-color .4s ease;transition:border-bottom-color .4s ease}
+ .jtab-ul li a:hover,.jtab-ul li a:focus{border-bottom-color:rgba(0,137,191,0.6);outline:0}
+ .jtab-ul li a.jtab-selected{z-index:2;border-bottom-color:rgba(1,1,1,0.75)}
+ .jtab-content-list{
+  font-family:Arial,Helvetica;font-size:small;
+  background-color:#fff;border-top:2px solid rgba(1,1,1,0.75);
+  padding:20px 0;}
+ .jtab-content-list>div,.jtab-content-list .jtab-content{display:none;position:relative;
+  z-index:2;min-height:210px}
+ .jtab-content-list>div:target,.jtab-content-list>div:last-of-type,.jtab-content-list .jtab-content:target,.jtab-content-list .jtab-content:last-of-type{display:block}
+ .jtab-content-list>div:target ~ div:last-of-type,.jtab-content-list .jtab-content:target ~ div:last-of-type{display:none}
+ .jtab-content-list>div.jtab-loading,.jtab-content-list .jtab-content.jtab-loading{background:url('') no-repeat 50% 50%}
+.jtab-wrapper li{
+  margin-bottom: 0px !important;
+}
+
+ /*end of  jtab min css*/
+
+.page-wrapper .page-content .album-cover .desc1{
+  padding: 15px;
+}
+.album-cover1 a img{
+  margin: auto;
+}
+table.teachers{
+  width: 100%;
+  color: #000;
+  margin-bottom: 50px;
+}
+.teachers th{
+  text-align: center;
+  padding: 5px;
+}
+.teachers td{
+  padding: 5px;
+}
+.teachers td, .teachers th, .teachers{
+  border: 1px solid #8888A2;
+}
+.map-section{
+  margin-top: 45px !important;
+  margin-bottom: 20px !important;
+}
+ul#tab-menu li {
+    list-style-type: none;
+    font-size: 21px;
+    font-weight: 600;
+    border: 1px solid #ccc;
+    padding: 2px 5px;
+}
+ul#tab-menu {
+    padding-left: 0px;
+    background-color: #aaa;
+}
+.jtab-content-list.cont{
+  padding-top: 0px !important;
+  padding-right: 10px !important;
+  border-top: none !important;
+
+}
+.jtab-content-list.cont .jtab-selected{
+    border-top: 1px solid #ccc;
+    padding-left: 10px;
+}
+
+.hand-icon{
+  visibility:hidden;
+}
+
+.bg-pad{
+padding-left:3px;
+padding-right:3px;
+margin-bottom: 5px;
+}
+.bg-img{
+ /*border:1px solid #fff;*/
+ box-shadow: 1px 1px 1px #aaa;
+}
+.other-branch{
+   background-color:#EFEFEF !important;
+   color:white;
+}
+/*-------------{
+    -------News Slider------------------------------------*/
+.header .top-bar {
+    background: #EFEFEF !important;
+}
+.dropdown-Ssubmenu {
+    position:relative;
+}
+.dropdown-Ssubmenu>.dropdown-menu {
+    top:0;
+    left:100%;
+    margin-top:-6px;
+    margin-left:-1px;
+    -webkit-border-radius:0 6px 6px 6px;
+    -moz-border-radius:0 6px 6px 6px;
+    border-radius:0 6px 6px 6px;
+}
+.dropdown-Ssubmenu:hover>.dropdown-menu {
+    display:block;
+}
+.dropdown-Ssubmenu>a:after {
+    display:block;
+    content:" ";
+    float:right;
+    width:0;
+    height:0;
+    border-color:transparent;
+    border-style:solid;
+    border-width:5px 0 5px 5px;
+    border-left-color:#cccccc;
+    margin-top:5px;
+    margin-right:-10px;
+}
+.dropdown-Ssubmenu:hover>a:after {
+    border-left-color:#ffffff;
+}
+.dropdown-Ssubmenu.pull-left {
+    float:none;
+}
+.dropdown-Ssubmenu.pull-left>.dropdown-menu {
+    left:-100%;
+    margin-left:10px;
+    -webkit-border-radius:6px 0 6px 6px;
+    -moz-border-radius:6px 0 6px 6px;
+    border-radius:6px 0 6px 6px;
+}
